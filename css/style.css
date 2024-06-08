@@ -247,6 +247,49 @@ section.veiculos-destaque .line-titulo h2 {
     border-bottom: 5px solid #b21e1e;
 }
 
+.servicos-depoimentos {
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    
+    
+}
+
+.servicos {
+    width: 50%;
+    height: 400px;
+    float: left;
+    background-color: #242424;
+    color: white;
+   
+    
+}
+
+.depoimentos {
+    width: 50%;
+    height: 400px;
+    float: right;
+    background-color:#EB2D2D;
+}
+
+.txt-servicos {
+    margin: 0 20%;
+    
+}
+
+.servicos h2 {
+    padding: 10px;
+    font-size: 44px;
+    margin: 100px 2%;
+    display: block;
+}
+
+.servicos ul {
+    position: absolute;
+    margin: -94px 4%;
+    font-size: 23px;
+}
+
 
 /* Media screen para dispositivos menores */
 
